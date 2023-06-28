@@ -63,6 +63,7 @@ function App() {
     };
 
     return (
+        <div>
         <h1> Welcome to Jiaming's TIC TAC TOE Arena </h1>
         <div className="tic-tac-toe">            
             <Button resetGame={resetGame} />
@@ -146,6 +147,7 @@ function App() {
                     </motion.div>
                 )}
             </AnimatePresence>
+        </div>
         </div>
     );
 }
