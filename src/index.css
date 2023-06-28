@@ -14,8 +14,10 @@ body {
     margin: 40px auto;
     text-align: center;
 }
-.tic-tac-toe h1 {
+h1 {
     color: #eee;
+    text-align: center;
+    margin: 40px auto;
 }
 
 .tic-tac-toe button {
