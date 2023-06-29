@@ -65,6 +65,7 @@ function App() {
     return (
         <div>
         <h1> Welcome to Jiaming's TIC TAC TOE Arena </h1>
+        <h1> My first game </h1>
         <div className="tic-tac-toe">            
             <Button resetGame={resetGame} />
             <div className="game">
